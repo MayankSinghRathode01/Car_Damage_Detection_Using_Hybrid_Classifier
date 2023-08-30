@@ -21,8 +21,3 @@ This tutorial will help you to install and set up the car damage detector web ap
 - You can skip the above steps and browse directly on your web browser using [Car Damage Detector](https://car-damage-detector.herokuapp.com/)
 
 
-
-#### Author
-
-**Ravi Ranjan**
-

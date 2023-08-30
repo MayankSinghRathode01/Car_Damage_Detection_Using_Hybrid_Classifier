@@ -1,0 +1,13 @@
+args
+Flask
+Flask-Cors
+gunicorn
+Jinja2
+numpy 
+numpydoc
+pandas
+scipy
+six
+tensorflow
+tflearn
+werkzeug
